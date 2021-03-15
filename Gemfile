@@ -7,3 +7,10 @@ gem "pry"
 end
 
 gem "hashie" group: :development
+
+gem "sinatra" , '-> 1.4.4'
+
+
+
+
+'>= 2.6.3'
