@@ -11,6 +11,6 @@ gem "awesome_print", :git => 'https://github.com/awesome-print/awesome_print.git
 
 group :test do
   gem 'rspec'
-end 
+end
 
 #run bundle install
